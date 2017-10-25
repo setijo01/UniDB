@@ -8,7 +8,7 @@ public class UniDB {
 
    //  Database credentials
    static final String USER = "root";
-   static final String PASS = "trenchhat";
+   static final String PASS = "strangehat";
    
    public static void main(String[] args) {
    Connection conn = null;
